@@ -1,0 +1,25 @@
+{
+  "name": "plupolly",
+  "version": "1.0.0",
+  "description": "쌍피의 고스톱에서 쓰일 실시간 설문 조사 플랫폼",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/studiopluto/plupolly.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/studiopluto/plupolly/issues"
+  },
+  "homepage": "https://github.com/studiopluto/plupolly#readme",
+  "dependencies": {
+    "koa": "^2.4.1"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1"
+  }
+}
